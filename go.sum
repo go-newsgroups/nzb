@@ -1,0 +1,4 @@
+github.com/go-newsgroups/nntp v0.1.0 h1:z4FLpL+rknXPK5R9vJiZQ8iD0PvchqWy7EEdfHagZ/o=
+github.com/go-newsgroups/nntp v0.1.0/go.mod h1:r2IY7RsxNL5U2Bh6gFKYRFK6tLml5+i2Poprlh05RkI=
+github.com/go-newsgroups/yenc v0.1.0 h1:oS4d9BJBuQfznqgyHrsr5ZNFZ+s7/SkfUl7ALVo5ZIM=
+github.com/go-newsgroups/yenc v0.1.0/go.mod h1:+BWqb2iT8+aVnLKzayWJex6adUNI276vH7iWizcR3P4=
