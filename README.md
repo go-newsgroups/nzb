@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/go-newsgroups/brand/main/social/go-newsgroups.png" alt="go-newsgroups/nzb" width="720"></p>
+
 # nzb
 
 [![CI](https://github.com/go-newsgroups/nzb/actions/workflows/ci.yml/badge.svg)](https://github.com/go-newsgroups/nzb/actions/workflows/ci.yml)
