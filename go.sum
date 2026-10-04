@@ -1,7 +1,5 @@
 github.com/go-datetime/dates v0.1.0 h1:Uj8TaTZ09DXdq75EGQ/teFdrXpfVAC3ZDHAPQvPTnaA=
 github.com/go-datetime/dates v0.1.0/go.mod h1:KeZ1wUeMScJD6HOvj3hINwbsB+GCSFjJLWcJhrBlwIo=
-github.com/go-newsgroups/nntp v0.1.0 h1:z4FLpL+rknXPK5R9vJiZQ8iD0PvchqWy7EEdfHagZ/o=
-github.com/go-newsgroups/nntp v0.1.0/go.mod h1:r2IY7RsxNL5U2Bh6gFKYRFK6tLml5+i2Poprlh05RkI=
 github.com/go-newsgroups/nntp v0.2.2 h1:P8+JpS8uqxXDgR2tY3yrRR4BmQtn7Tbc6+sV8FLv2n0=
 github.com/go-newsgroups/nntp v0.2.2/go.mod h1:Syx4HRiOStcpoWHzDWi1hxQd2iBVRu3yYkpcBZn+DAI=
 github.com/go-newsgroups/yenc v0.1.0 h1:oS4d9BJBuQfznqgyHrsr5ZNFZ+s7/SkfUl7ALVo5ZIM=
