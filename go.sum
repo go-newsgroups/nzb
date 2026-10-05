@@ -1,6 +1,6 @@
 github.com/go-datetime/dates v0.1.0 h1:Uj8TaTZ09DXdq75EGQ/teFdrXpfVAC3ZDHAPQvPTnaA=
 github.com/go-datetime/dates v0.1.0/go.mod h1:KeZ1wUeMScJD6HOvj3hINwbsB+GCSFjJLWcJhrBlwIo=
-github.com/go-newsgroups/nntp v0.2.2 h1:P8+JpS8uqxXDgR2tY3yrRR4BmQtn7Tbc6+sV8FLv2n0=
-github.com/go-newsgroups/nntp v0.2.2/go.mod h1:Syx4HRiOStcpoWHzDWi1hxQd2iBVRu3yYkpcBZn+DAI=
-github.com/go-newsgroups/yenc v0.1.0 h1:oS4d9BJBuQfznqgyHrsr5ZNFZ+s7/SkfUl7ALVo5ZIM=
-github.com/go-newsgroups/yenc v0.1.0/go.mod h1:+BWqb2iT8+aVnLKzayWJex6adUNI276vH7iWizcR3P4=
+github.com/go-newsgroups/nntp v0.3.0 h1:/drAvwfaZ7NaJw5vjLa+45KbBY8u2i7Qz1n1P/E9Muw=
+github.com/go-newsgroups/nntp v0.3.0/go.mod h1:xUQvsMG/PWGkee4dGoQy+/RlxlnUZQtRLdvK/jxYbxo=
+github.com/go-newsgroups/yenc v0.2.0 h1:GS9Jh3qecx401rXImjyPsiKM1/gwswLFCnZSv1wPUPA=
+github.com/go-newsgroups/yenc v0.2.0/go.mod h1:6OuE/Ng9YBTZtk8SlT1srGw+m+OR7nKV7LanABBJVGY=
